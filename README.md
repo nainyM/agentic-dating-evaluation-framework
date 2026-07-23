@@ -1,14 +1,10 @@
 # Agentic Dating Multi-Layered Evaluation Framework; Below is the link for deatil
-[View the eval framework] (https://github.com/nainyM/agentic-dating-evaluation-framework/blob/main/Evaluation_Framework_Infographic.pdf)
 
 This repository documents the evaluation framework I designed for an agentic dating application with two core agents:
 
 - **Match Curation Agent** — ranks compatible matches.
 - **Date Planner Agent** — creates feasible date plans based on user preferences, budget, location, and availability.
 
-## Product Demo
-
-[View the product demo](https://agenticdating.lovable.app)
 
 ## What This Evaluation Means
 
@@ -45,3 +41,9 @@ Each release is evaluated against predefined quality, safety, reliability, and p
 ## Why I Built This
 
 I created this framework to show how I approach production-ready AI products by connecting architecture, evaluation, safety, observability, human review, and measurable business outcomes.
+
+[View the eval framework] (https://github.com/nainyM/agentic-dating-evaluation-framework/blob/main/Evaluation_Framework_Infographic.pdf)
+
+## Product Demo
+
+[View the product demo](https://agenticdating.lovable.app)
