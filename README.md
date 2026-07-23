@@ -1,4 +1,4 @@
-# Agentic Dating Multi-Layered Evaluation Framework; Below is the link for deatil
+# Agentic Dating Multi-Layered Evaluation Framework
 
 This repository documents the evaluation framework I designed for an agentic dating application with two core agents:
 
