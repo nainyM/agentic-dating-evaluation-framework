@@ -1,4 +1,5 @@
-# Agentic Dating Multi-Layered Evaluation Framework
+# Agentic Dating Multi-Layered Evaluation Framework; Below is the link for deatil
+------https://github.com/nainyM/agentic-dating-evaluation-framework/blob/main/Evaluation_Framework_Infographic.pdf
 
 This repository documents the evaluation framework I designed for an agentic dating application with two core agents:
 
